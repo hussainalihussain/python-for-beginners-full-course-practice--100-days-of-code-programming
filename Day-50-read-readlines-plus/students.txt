@@ -1,0 +1,5 @@
+ahmad ali:89,50,69
+said jamal:84,73,52
+sabir ali:59,59,59
+kamal khan:32,46,71
+tamoor pardasi:58,81,31
