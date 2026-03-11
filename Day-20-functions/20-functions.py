@@ -46,6 +46,7 @@ average(6, 10, 20)
 
 def fun(**objects):
   print("Type of arg:", type(objects))
+  
   for object in objects:
     print("Object:", object)
 
