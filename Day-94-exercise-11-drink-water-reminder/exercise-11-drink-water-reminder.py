@@ -4,7 +4,7 @@
 
 # somehow the win32com.client is not working, saying module not found so we need to install it
 # i already installed it before and was working fine but i don't know if mistakenly removed....
-# import win32com.client
+import win32com.client
 import time
 
 # speaker = win32com.client.Dispatch("SAPI.SpVoice")
